@@ -1,4 +1,4 @@
-pragma solidity ^0.4.13;
+pragma solidity ^0.4.18;
 
 contract Ownable {
   address public owner;
@@ -543,4 +543,3 @@ contract NucleusVisionToken is MintableToken {
   }
 
 }
-
